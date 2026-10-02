@@ -1,18 +1,18 @@
-<h3 align="left">Hi there 👋</h3>
+<h3 align="left">👋 Hi, I'm Emmanuel!</h3>
 
 ###
 
-<p align="left">Full-Stack Developer & Penetration Tester passionate about building secure, scalable web applications — combining modern software engineering with an offensive security mindset.
+<p align="left">
 
-I design and develop complete web solutions across frontend, backend, and databases using React, Next.js, Node.js/Express, and TypeScript, with hands-on experience in state management (Zustand, TanStack Query), authentication (JWT), and API documentation (Swagger/OpenAPI).
+🎓 I'm a Software Engineering student currently pursuing my bachelor's degree, with a strong interest in technology, programming, and computer science.
 
-My background in offensive security sets me apart: I conduct controlled penetration testing following OWASP Top 10 and PTES methodologies, identifying vulnerabilities such as misconfigurations, XSS, CSRF, IDOR, and sensitive data exposure — then translate those findings into more resilient, security-first code. This dual perspective allows me to build applications that are not only functional, but genuinely hardened against real-world threats.
+💻 I'm currently learning **Python** and strengthening my understanding of computer science fundamentals. I also have basic knowledge of **HTML, CSS, and Bootstrap**, and I'm continuously exploring different technologies and concepts.
 
-### Recent highlights:
+🌱 My main goal is to **keep expanding my knowledge, develop new skills, and explore different areas of computer science**. I'm still discovering the fields that interest me the most, and I'm open to learning about different technologies, methodologies, and areas of specialization.
 
- At CyberSector, I contributed to the development of the company's web platform and RedLine, while conducting web pentesting for international clients across Latin America and documenting findings in technical audit reports.
+🚀 I believe that learning is an ongoing process, and I'm using this journey to build a solid technical foundation, challenge myself, and grow both academically and professionally.
 
-I'm driven by continuous learning and stay actively engaged with both the development and cybersecurity communities.
+Thanks for stopping by my profile!
 
 ###
 
@@ -20,7 +20,7 @@ I'm driven by continuous learning and stay actively engaged with both the develo
 
 ###
 
-<p align="left">React · Next.js · MERN | PERN · TypeScript · JavaScript · Node.js/Express · PostgreSQL · MongoDB · MySQL · Python · Tailwind CSS · JWT · Prisma · Docker · Git & GitHub · Burp Suite</p>
+<p align="left">Python · C# · HTML · CSS · Bootstrap</p>
 
 ###
 

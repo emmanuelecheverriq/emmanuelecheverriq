@@ -1,3 +1,5 @@
+###
+
 <h3 align="left">👋 Hi, I'm Emmanuel!</h3>
 
 ###
@@ -20,9 +22,8 @@ Thanks for stopping by my profile!
 
 ###
 
-<p align="left">Python · C# · HTML · CSS · Bootstrap</p>
+<p align="left">Python · C# · HTML · CSS · Bootstrap · Tailwind CSS</p>
 
-###
 
 <div align="center">
   
@@ -37,13 +38,7 @@ Thanks for stopping by my profile!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwind css logo" />
-###
 
-
-###
 <!--  // Snake Animation -->
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
-###
-
-###

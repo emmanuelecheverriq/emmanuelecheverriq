@@ -26,19 +26,19 @@ Thanks for stopping by my profile!
 
 <div align="center">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/python.svg" height="35" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/css3.svg" height="35" alt="css logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/html5.svg" height="35" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/bootstrap.svg" height="35" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/mysql.svg" height="35" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/vscode.svg" height="35" alt="vscode logo" />
   <img width="12" />
-  <img src="https://devicons.io/devicons/icons/python.svg" height="35" alt="slack logo"  />
+
 </div>
 
 ###
